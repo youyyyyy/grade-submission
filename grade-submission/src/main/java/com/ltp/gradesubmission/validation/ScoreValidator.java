@@ -1,5 +1,6 @@
-package com.ltp.gradesubmission;
+package com.ltp.gradesubmission.validation;
 
+import com.ltp.gradesubmission.validation.Score;
 import jakarta.validation.ConstraintValidator;
 import jakarta.validation.ConstraintValidatorContext;
 
