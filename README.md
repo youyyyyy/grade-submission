@@ -2,7 +2,7 @@
 
 #### About this project
 
-A Spring Boot Project leaned from [Udemy](https://www.udemy.com/course/the-complete-spring-boot-development-bootcamp/)
+A Spring Boot Project learned from [Udemy](https://www.udemy.com/course/the-complete-spring-boot-development-bootcamp/)
 
 This project covers:
 
